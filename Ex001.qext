@@ -1,0 +1,9 @@
+{
+    "name": "Ex001",
+    "description": "Get the last saved stage",
+    "type": "visualization",
+    "repository": "",
+    "dependencies": {
+        "qlik-sense": ">=3.0.x"
+    }
+}
